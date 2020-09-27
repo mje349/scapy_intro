@@ -40,8 +40,6 @@ ip_network.reverse()
 for i in ip_network:
     #i.show()
     print(i.dst, i.dport)
-    
-
 
 #print("Broadcast Address: ", ip_range.broadcast)
 #print("Network Address: ", ip_range.network)
